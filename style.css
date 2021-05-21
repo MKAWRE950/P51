@@ -1,0 +1,32 @@
+h1{
+    color:rgb(12, 14, 7)
+}
+.header{
+    background-color:cornflowerblue;
+    display:flex;
+    justify-content:space-between ;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+.menu{
+    display: flex;
+    justify-content:space-between;
+    background-color:#90ff;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+body{
+    background-color:bisque;
+}
